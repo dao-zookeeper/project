@@ -12,6 +12,7 @@ Business Problem:
 -	The impacts can vary depending on how the loan defaulting is managed, but typically the businesses would incur losses that will present itself on their balance sheet, potentially causing more problems down the road.
 -	As such, there is motivation for businesses to be able to predict who will default on loans, to reduce the consequences suffered.
 -	To do so, businesses typically look at several factors, such as debt-to-income ratio and credit score of the borrower. However, the advent of Machine Learning and Artificial Intelligence can potentially improve such prediction capabilities.
+-	
 Data:
 https://www.kaggle.com/datasets/gauravduttakiit/loan-defaulter?select=application_data.csv 
 
