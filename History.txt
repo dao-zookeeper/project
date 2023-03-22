@@ -1,0 +1,12 @@
+What was done:
+
+Application_data.csv
+- kept data that had <= 25% nulls
+- Split into Categorical and Numerical values
+- For Numerical values: Normalised them
+- For Categorical values: One-Hot encoded them
+- Performed Correlation analysis
+- Further removed columns that high correlation
+
+cleaned_final.csv
+- This is the file to be used for cleaning.
